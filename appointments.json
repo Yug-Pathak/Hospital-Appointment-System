@@ -1,0 +1,14 @@
+﻿{
+  "doctors": [
+    { "name": "Dr. Yug Pathak", "specialty": "Cardiologist", "time": "Today, 9:00 AM", "badge": "Available" },
+    { "name": "Dr. Aryan Rathod", "specialty": "Dermatologist", "time": "Today, 11:30 AM", "badge": "Available" },
+    { "name": "Dr. Chirag Nakum", "specialty": "Neurologist", "time": "Tomorrow, 8:45 AM", "badge": "Booked" },
+    { "name": "Dr. Harshit Parmar", "specialty": "Orthopedic", "time": "Tomorrow, 2:00 PM", "badge": "Available" }
+  ],
+  "schedule": [
+    { "day": "Mon", "slot": "09:30 AM", "status": "Open" },
+    { "day": "Tue", "slot": "11:00 AM", "status": "Open" },
+    { "day": "Wed", "slot": "01:15 PM", "status": "Booked" },
+    { "day": "Thu", "slot": "03:00 PM", "status": "Open" }
+  ]
+}
